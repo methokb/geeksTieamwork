@@ -7,11 +7,13 @@ import faebook from "../assets/facebook (1) 1.svg"
 import youtube from "../assets/YOUtube.svg"
 import instagram from "../assets/Instagram.svg"
 import Elipse from "../assets/Ellipse 7.svg"
+import Obzor from './Obzor'
 const Home = () => {
   return (
     <div>
       <Navbar />
       <Model />
+      <Obzor/>
 
       <div className="container_home">
         <div className="component_home">
