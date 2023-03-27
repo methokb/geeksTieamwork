@@ -1,0 +1,66 @@
+.container_home{
+    margin: 0 auto;  
+    background: url("../assets/bag.svg") ;
+    line-height: 10px;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 1440px;
+    height: 900px;
+}
+.component_home{
+    background: url("../assets/halicopter.svg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 1440px;
+    height: 900px;
+}
+.text_home{
+    color: white;
+    position: relative;
+    top: 350px;
+    left: 70px;
+}
+.p_home{
+    font-weight: 100;
+}
+.p_home_{
+    color: rgba(255,255,255,0.5);
+    line-height: 15px;
+
+}
+.p_met_home{
+    border: 2px solid #FFFFFF;
+    height: 30px;
+    width: 300px;
+    text-align: center;
+   align-items: center;
+  
+    
+}
+.h1_home{
+    text-transform: uppercase;
+}
+.footer_p{
+    height: 140px;
+    width: 1px;
+    background: #C4C4C4;
+    display: flex;
+    justify-content: end;
+}
+.vec_footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    position: relative;
+    left: 1281px;
+    bottom: 100px;
+
+}
+.image{
+    width: 34px;
+    height: 34px;
+
+}
+.elipse{
+    
+}

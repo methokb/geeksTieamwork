@@ -1,0 +1,33 @@
+
+.ul_navbar{
+    display: flex;
+    list-style-type: none;
+    color: rgba(255,255,255,0.5);
+    gap: 30px;
+
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-left: 38px;
+}
+.navbar_content{
+    background: url("../assets/halicopter.svg") ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 1440px;
+    height: 60px;
+    margin-left: 32px;
+    display: flex;
+    top: 22px;
+    position: relative;
+    margin: 0 auto;
+}
+.neit{
+    width: 70px;
+    height: 960px;
+    background-color: black;
+    position: relative;
+    right: 65px;
+}
